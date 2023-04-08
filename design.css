@@ -1,0 +1,69 @@
+[class="css-zt5igj e16nr0p31"]>span{
+    text-align: center;
+}
+
+/* [data-testid="stForm"]>[data-testid="stMarkdownContainer"]>p{
+    background-color: aqua;
+} */
+[class="element-container css-1gay1jh e1tzin5v1"]>[class="stMarkdown"]>[data-testid="stMarkdownContainer"]>P{
+    background-color: #87CEEB;
+    color: rgb(255, 255, 255);
+    border: 10%;
+}
+  
+[data-testid="stForm"]{
+    background-color: rgba(255, 75, 75,0.4);
+    /* font-size: 80px; */
+}
+
+[data-testid="stAppViewContainer"]{
+    background-color: rgb(255, 255, 255);
+    /* background-image: url("https://i.ibb.co/8mywtRW/istockphoto-1129644198-612x612.jpg"); */
+    background-image: url("https://i.ibb.co/wKYyh4n/image.png");
+    /* background-image: url("https://i.ibb.co/TtT568w/9a663f3a-5a24-4b15-860e-1c3caa3917cd.png"); */
+    background-size: cover;
+    background-position: center;
+    /* background: transparent; */
+    /* filter: blur(2px); */
+    /* background-position:50% 50%; */
+  }
+
+.navbar {
+    background-color: transparent;
+    border: none;
+  }
+  .navbar-brand {
+    color: white;
+  }
+  .navbar-nav .nav-link {
+    color: white;
+  }
+  .a{
+    align-items: center;
+  }
+
+[id="root"]{
+    background-color: rgb(0, 255, 255,0.5);
+}
+
+[data-testid="stExpander"]{
+    background-color: rgba(255, 75, 75, 0.2)
+}
+
+[class="row-widget stButton"]>button{
+  height: 3em;
+  width: 6em;
+  background-color: rgba(255, 75, 75, 0.4)
+}
+
+[class="navbar-logo"]>nav{
+  background-color: transparent;
+}
+
+/* [class="navbar-brand"]>img{
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+
+} */

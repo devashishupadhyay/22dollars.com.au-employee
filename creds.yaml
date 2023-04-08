@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    dev:
+      email: upadhyaydevashish@outlook.com
+      name: Devashish
+      password: $2b$12$MSoFeeCVrfh9gIun5KMh1uP/vrq2a.nXr4ueDYpoNDR/p7hIxfbwa #Pass hash
+    admin:
+      email: upadhyaydevashish@outlook.com
+      name: Devashish
+      password: $2b$12$JpRugcHNbdN2Eucj1xKib.JWhUibHH.cH7WEQi2zkTBrzk.kA1H7e #Pass hash
+cookie:
+  expiry_days: 30
+  key: some_signature_key # Must be string
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - upadhyaydevashish@outlook.com

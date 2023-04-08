@@ -1,0 +1,8 @@
+allign logo center
+user sepration json entry
+home page ideas
+settings page with user info
+post submit doesnt show up in view posts
+ai Recommendations page integration dummy
+
+
